@@ -1,0 +1,14 @@
+{
+  "name": "02_lession",
+  "version": "1.0.0",
+  "description": "this blog express folder that help me to learn node ",
+  "main": "blog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tanmay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
